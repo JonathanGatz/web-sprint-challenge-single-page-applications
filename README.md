@@ -31,8 +31,19 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Demonstrate your understanding of this week's concepts by answering the following free-form questions. Edit this document to include your answers after each question.
 
 1. In 1-2 sentences, explain what React's `useRouteMatch` hook is used for.
+
+****** This is a more direect way to access information instead of grecieving from props. It helps the Route path match the URL. ******
+
 1. How would you explain form validation to someone who has never programmed before?
+
+****** Form validation spots errors. the form validation won't let you move forward until the required feild is completed. ******
+
 1. In 1-2 sentences, define end to end testing.
+
+****** - 
+This is my favorite part of the whole proccess thus far. You "practically build a robot in cypress that tests all paths and mke sure the site functions the way you want it. If it catches an errer, it will stop and show you where/what to fix. You can do this proccess through the Terminal but that takes FOREVER. Cypress provides it's vero own window for you... Much much quicker. 
+****** -
+
 
 ## Instructions
 
